@@ -1,0 +1,17 @@
+# harrowALPHA
+A Three Cents Coding Project.
+
+Heyo!!!!!!!!!!!
+This is a Three Cents Coding Project, released under the GNU General Public License. All rights reserved.
+
+Have YOU ever wanted to survive in the dangerous, spoopy wilderness?
+Have YOU ever wanted to try a game that ISN'T the same as all the rest?
+Have YOU ever wanted to download a random game from the internet and play it?
+
+If so, this is the game for you!
+
+Harrow: A Survival Simulator is all about strategically managing resources in an unfamiliar environment. You'll explore, find easter eggs, and fight in a boss fight (whOaaa!)
+
+Download Today!
+
+Or tommorow, we aren't picky.
