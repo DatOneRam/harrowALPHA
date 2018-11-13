@@ -3,7 +3,7 @@ A Three Cents Coding Project.
 
 Heyo!!!!!!!!!!!
 
-This is a Three Cents Coding Project, released under the GNU General Public License. All rights reserved.
+This project is released under the GNU General Public License. All rights reserved.
 
 Have YOU ever wanted to survive in the dangerous, spoopy wilderness?
 Have YOU ever wanted to try a game that ISN'T the same as all the rest?
