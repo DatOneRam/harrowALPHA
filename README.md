@@ -15,3 +15,5 @@ Harrow: A Survival Simulator is all about strategically managing resources in an
 Download Today!
 
 Or tommorow, we aren't picky.
+
+(Note: this game is in ALPHA. It is completely comand-line based [for now]. Expect a GUI version within 1-2 months)
