@@ -2,6 +2,7 @@
 A Three Cents Coding Project.
 
 Heyo!!!!!!!!!!!
+
 This is a Three Cents Coding Project, released under the GNU General Public License. All rights reserved.
 
 Have YOU ever wanted to survive in the dangerous, spoopy wilderness?
