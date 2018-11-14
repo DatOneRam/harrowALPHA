@@ -5,7 +5,7 @@ This project is released under the GNU General Public License. All rights reserv
 
 Have YOU ever wanted to survive in the dangerous, spoopy wilderness?
 Have YOU ever wanted to try a game that ISN'T the same as all the rest?
-Have YOU ever wanted to download a random game from the internet and play it?
+Have YOU ever wanted to download something random from the internet and play it?
 
 If so, this is the game for you!
 
